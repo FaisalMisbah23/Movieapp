@@ -6,7 +6,7 @@ import {BrowserRouter,Routes,Route} from'react-router-dom';
 
 import Header from "./Components/Header/Header";
 import Footer from './Components/Footer/Footer';
-import Home from './pages/home/home';
+import Home from './Pages/Home/Home';
 import PageNotFound from './pages/404/pageNotFound';
 import Explore from './pages/explore/explore';
 import SearchResult from './pages/searchResult/searchResult';
